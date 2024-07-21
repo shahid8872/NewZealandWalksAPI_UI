@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewZealandWalksAPI", "NewZealandWalks\NewZealandWalksAPI.csproj", "{6AE2127A-709C-4886-9975-CF1695F991AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewZelandWalks.UI", "NewZelandWalks.UI\NewZelandWalks.UI.csproj", "{E9B763B4-B01F-4BC1-97BC-EAA6F1A6DD88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AE2127A-709C-4886-9975-CF1695F991AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE2127A-709C-4886-9975-CF1695F991AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE2127A-709C-4886-9975-CF1695F991AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE2127A-709C-4886-9975-CF1695F991AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9B763B4-B01F-4BC1-97BC-EAA6F1A6DD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B763B4-B01F-4BC1-97BC-EAA6F1A6DD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B763B4-B01F-4BC1-97BC-EAA6F1A6DD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B763B4-B01F-4BC1-97BC-EAA6F1A6DD88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {914C0667-7660-491C-A6BE-54E95421096E}
+	EndGlobalSection
+EndGlobal
