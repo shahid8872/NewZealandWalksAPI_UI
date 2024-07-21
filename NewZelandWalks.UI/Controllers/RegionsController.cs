@@ -2,10 +2,11 @@
 using System.Text.Json;
 using System.Text;
 using NewZelandWalks.UI.Models;
+using NewZelandWalks.UI.Models.DTO;
 
 namespace NewZelandWalks.UI.Controllers
 {
-	public class RegionsController : Controller
+    public class RegionsController : Controller
 	{
 		private readonly IHttpClientFactory httpClientFactory;
 
